@@ -1,0 +1,28 @@
+.container{
+    background-color: skyblue;
+}
+
+.element{
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+}
+
+.inner-container{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.button{
+    height: 20px;
+    width: 50px; 
+    background-color: chartreuse;
+    border-radius: 5px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+
+#random{
+    text-align: center;
+}
