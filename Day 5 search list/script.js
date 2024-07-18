@@ -1,4 +1,4 @@
-const API_KEY = '8eb06a94';
+const API_KEY = 'your api key';
 const API_URL = 'https://www.omdbapi.com';
 function searchMovie(){
   const searchInput = document.getElementById('searchInput').value;
